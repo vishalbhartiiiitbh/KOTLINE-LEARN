@@ -23,6 +23,7 @@ fun main() {
     val num1 = read.nextInt()
 
     print("Enter second number: ")
+
     val num2 = read.nextInt()
 
     println("Addition = ${num1 + num2}")
